@@ -1,7 +1,7 @@
 models:
   User:
     fake:
-      _count: 500
+      _count: 100
       cruzamentoID: { intOf: [164, 163, 162, 161, 160] }
       data_time_create: { dateTime: [2024-03-03T09:10:00Z, 2024-03-03T09:10:00Z] }
       Multipla: { int: [4, 10] }
